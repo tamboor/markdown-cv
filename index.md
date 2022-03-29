@@ -10,6 +10,7 @@ Junior Fullstack Developer, Hobbyist Game Developer, Music Producer.
 * __+972584747550__
 <!-- ## Currently
 Looking for a job as a Junior Fullstack Developer/Unity Game Developer. -->
+
 ## Work Experience
 
 `December 2018 - August 2021`
@@ -60,5 +61,4 @@ __Art__
 </div>
 
 Last updated: March 2022
-
 
