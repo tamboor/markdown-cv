@@ -11,6 +11,12 @@ Junior Fullstack Developer, Hobbyist Game Developer, Music Producer.
 <!-- ## Currently
 Looking for a job as a Junior Fullstack Developer/Unity Game Developer. -->
 
+## Links
+<div id="webaddress">
+<!-- <a href="nirkatz20exc@gmail.com" target="_blank">nirkatz20exc@gmail.com</a> -->
+<a href="https://github.com/tamboor" target="_blank">My GitHub Profile</a> | <a href="https://www.linkedin.com/in/nir-katz-0ab3891b9/">My LinkedIn Profile</a>
+</div>
+
 ## Work Experience
 
 `December 2018 - August 2021`
@@ -54,11 +60,4 @@ __Art__
 * Music production with Ableton Live.
 * Video editing with Premiere pro.
 
-### Links
-<div id="webaddress">
-<!-- <a href="nirkatz20exc@gmail.com" target="_blank">nirkatz20exc@gmail.com</a> -->
-<a href="https://github.com/tamboor" target="_blank">My GitHub Profile</a> | <a href="https://www.linkedin.com/in/nir-katz-0ab3891b9/">My LinkedIn Profile</a>
-</div>
-
 Last updated: March 2022
-
