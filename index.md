@@ -29,7 +29,7 @@ __Israeli Air Force__
 __Java Fullstack Development Course__
 - Studied and made an ongoing project with Java and the Spring framework implementing 
   Spring Boot, Jpa & Hibernate with MySQL, Jwt token security, Rest API, and Swagger API. 
-- Currently 
+
 
 `2014 - 2018`
 ### Ort Givatayim High School
