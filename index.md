@@ -8,6 +8,7 @@ Junior Fullstack Developer, Hobbyist Game Developer, Music Producer.
 ## Contact
 * __nirkatz20exc@gmail.com__
 * __+972584747550__
+* Adress: Amishav 64/3, Tel Aviv, Israel.
 <!-- ## Currently
 Looking for a job as a Junior Fullstack Developer/Unity Game Developer. -->
 
@@ -46,7 +47,7 @@ __Full Bagrut Certificate__
 * 5 units in physics.
 * 5 units in Math and English.
 
-### Additional Skills
+## Additional Skills
 __Technology__
 * C# Programming, self-taught.
 * Game development with Unity3D.
@@ -55,10 +56,11 @@ __Languages__
 * Hebrew, Native language.
 * English, Fluently reading writing, and speaking.
 
-__Art__
-* Music production with Ableton Live.
-* Video editing with Premiere pro.
-
 Last updated: March 2022
+
+<!-- __Art__
+* Music production with Ableton Live.
+* Video editing with Premiere pro. -->
+
 
 
