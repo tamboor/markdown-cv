@@ -6,8 +6,8 @@ title: Nir Katz's CV
 Junior Fullstack Developer, Hobbyist Game Developer, Music Producer.
 
 <div id="webaddress">
-<a href="nirkatz20exc@gmail.com">nirkatz20exc@gmail.com</a>
-  | <a href="https://github.com/tamboor">My GitHub Profile</a> | <a href="https://www.linkedin.com/in/nir-katz-0ab3891b9/">My LinkedIn Profile</a>
+<a href="nirkatz20exc@gmail.com" target="_blank">nirkatz20exc@gmail.com</a>
+  | <a href="https://github.com/tamboor" target="_blank">My GitHub Profile</a> | <a href="https://www.linkedin.com/in/nir-katz-0ab3891b9/">My LinkedIn Profile</a>
 </div>
 
 <!-- ## Currently
@@ -38,14 +38,18 @@ __Full Bagrut Certificate__
 - 5 units of Math and English.
 
 ## Additional Skills
+
 __Technology__
-- _C# Programming, self-taught_. 
-- _Game development with Unity3D_.
+- *C# Programming, self-taught.* 
+- *Game development with Unity3D.*
+
 __Languages__
-- _Hebrew_, Native language.
-- _English_, Fluently reading writing, and speaking.
+- *Hebrew*, Native language.
+- *English*, Fluently reading writing, and speaking.
+
 __Art__
 - Music production with Ableton Live.
 - Video editing with Premiere pro.
 
 Last updated: March 2022
+
