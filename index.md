@@ -8,14 +8,13 @@ Junior Fullstack Developer, Hobbyist Game Developer, Music Producer.
 ## Contact
 * __nirkatz20exc@gmail.com__
 * __+972584747550__
-* Adress: Amishav 64/3, Tel Aviv, Israel.
 <!-- ## Currently
 Looking for a job as a Junior Fullstack Developer/Unity Game Developer. -->
 
-<!-- ## Links
+## Links
 <div id="webaddress">
 <a href="https://github.com/tamboor" target="_blank">My GitHub Profile</a> | <a href="https://www.linkedin.com/in/nir-katz-0ab3891b9/">My LinkedIn Profile</a>
-</div> -->
+</div>
 
 ## Work Experience
 
@@ -56,9 +55,10 @@ __Languages__
 * Hebrew, Native language.
 * English, Fluently reading writing, and speaking.
 
+__Art__
+* Music production with Ableton Live.
+* Video editing with Premiere pro.
+
 Last updated: March 2022
 
-<!-- __Art__
-* Music production with Ableton Live.
-* Video editing with Premiere pro. -->
 
