@@ -17,9 +17,10 @@ Looking for a job as a Junior Fullstack Developer/Unity Game Developer. -->
 `December 2018 - August 2021`
 ### Control Officer
 __Israeli Air Force__
-- Discharged on August 2021 with a Certificate Of Excellence.
-- Commanded a 24/7 active war room in charge of relaying information in real-time from the field to the top of the chain of command.
-- Monitored inventory and use-state of aircraft and weaponry in the air force and linked relevant contacts to find solutions to different cases.
+* Discharged on August 2021 with a Certificate Of Excellence.
+* Commanded a 24/7 active war room in charge of relaying information in real-time from the field to the top of the chain of command.
+* Monitored inventory and use-state of aircraft and weaponry.
+* linked relevant contacts to find solutions to different cases.
 
 <!-- add work experience  -->
 ## Education
@@ -27,28 +28,30 @@ __Israeli Air Force__
 `October 2021 - Now`
 ### John Bryce
 __Java Fullstack Development Course__
-- Studied and made an ongoing project with Java and the Spring framework implementing 
+* Studied and made an ongoing project with Java and the Spring framework implementing 
   Spring Boot, Jpa & Hibernate with MySQL, Jwt token security, Rest API, and Swagger API. 
+* something
 
 
 `2014 - 2018`
 ### Ort Givatayim High School
 __Full Bagrut Certificate__
-- 5 units in physics.
-- 5 units of Math and English.
+* 5 units in physics.
+* 5 units of Math and English.
 
 ## Additional Skills
 
 __Technology__
-- *C# Programming, self-taught.* 
-- *Game development with Unity3D.*
+* C# Programming, self-taught.
+* Game development with Unity3D.
 
 __Languages__
-- *Hebrew*, Native language.
-- *English*, Fluently reading writing, and speaking.
+* Hebrew, Native language.
+* English, Fluently reading writing, and speaking.
 
 __Art__
-- Music production with Ableton Live.
-- Video editing with Premiere pro.
+* Music production with Ableton Live.
+* Video editing with Premiere pro.
 
 Last updated: March 2022
+
