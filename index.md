@@ -5,12 +5,9 @@ title: Nir Katz's CV
 # Nir Katz
 Junior Fullstack Developer, Hobbyist Game Developer, Music Producer.
 
-<div id="webaddress">
-<!-- <a href="nirkatz20exc@gmail.com" target="_blank">nirkatz20exc@gmail.com</a> -->
-  <p>My Email: nirkatz20exc@gmail.com</p>
-  | <a href="https://github.com/tamboor" target="_blank">My GitHub Profile</a> | <a href="https://www.linkedin.com/in/nir-katz-0ab3891b9/">My LinkedIn Profile</a>
-</div>
-
+## Contact
+* __nirkatz20exc@gmail.com__
+* __+972584747550__
 <!-- ## Currently
 Looking for a job as a Junior Fullstack Developer/Unity Game Developer. -->
 ## Work Experience
@@ -55,6 +52,12 @@ __Languages__
 __Art__
 * Music production with Ableton Live.
 * Video editing with Premiere pro.
+
+##Links
+<div id="webaddress">
+<!-- <a href="nirkatz20exc@gmail.com" target="_blank">nirkatz20exc@gmail.com</a> -->
+<a href="https://github.com/tamboor" target="_blank">My GitHub Profile</a> | <a href="https://www.linkedin.com/in/nir-katz-0ab3891b9/">My LinkedIn Profile</a>
+</div>
 
 Last updated: March 2022
 
