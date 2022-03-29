@@ -2,18 +2,18 @@
 layout: cv
 title: Isaac Newtons's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Nir Katz
+Junior Fullstack Developer, Hobbyist Game Develoepr, Music Producer.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="nirkatz20exc@gmail.com">nirkatz20exc@gmail.com</a>
+  | <a href="https://github.com/tamboor">My GitHub Profile</a> | <a href="https://www.linkedin.com/in/nir-katz-0ab3891b9/">My LinkedIn Profile</a>
 </div>
 
 
-## Currently
+<!-- ## Currently
 
-Standing on the shoulders of giants
+Standing on the shoulders of giants -->
 
 ### Specialized in
 
@@ -27,29 +27,17 @@ Cooling, power series, optics, alchemy, planetary motions, apples.
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`October 2021 - Now`
+__Java Fullstack Development Course__
+> John Bryce
+- Studied and made an ongoing project with Java and the Spring framework (jpa,jwt,swagger api,rest api)
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+
+`2014 - 2018`
+__Ort Givatayim high School__
+
 
 - Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
 
 ## Publications
 
@@ -82,10 +70,12 @@ __Royal Mint__, London
 `1600`
 __Lucasian professor of Mathematics__, Cambridge University
 
+[My GitHub]()
+[My LinkedIn]()
 
 
-<!-- ### Footer
+### Footer
 
-Last updated: May 2013 -->
+Last updated: March 2022
 
 
