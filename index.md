@@ -5,7 +5,7 @@ title: Nir Katz's CV
 # Nir Katz
 Junior Fullstack Developer, Hobbyist Game Developer, Music Producer.
 
-##Contact
+## Contact
 * __nirkatz20exc@gmail.com__
 * __+972584747550__
 <!-- ## Currently
