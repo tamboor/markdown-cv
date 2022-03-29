@@ -6,7 +6,8 @@ title: Nir Katz's CV
 Junior Fullstack Developer, Hobbyist Game Developer, Music Producer.
 
 <div id="webaddress">
-<a href="nirkatz20exc@gmail.com" target="_blank">nirkatz20exc@gmail.com</a>
+<!-- <a href="nirkatz20exc@gmail.com" target="_blank">nirkatz20exc@gmail.com</a> -->
+  <p>My Email: nirkatz20exc@gmail.com</p>
   | <a href="https://github.com/tamboor" target="_blank">My GitHub Profile</a> | <a href="https://www.linkedin.com/in/nir-katz-0ab3891b9/">My LinkedIn Profile</a>
 </div>
 
@@ -21,6 +22,11 @@ __Israeli Air Force__
 * Commanded a 24/7 active war room in charge of relaying information in real-time from the field to the top of the chain of command.
 * Monitored inventory and use-state of aircraft and weaponry.
 * Linked relevant contacts to find solutions to different cases.
+
+`2018`
+### Logistics Manager
+__Givatayim Shelanu__
+* Managed logistics at the campaign headquarters of "Givatayim Shelanu" (political party in the city of Givatayim)
 
 <!-- add work experience  -->
 ## Education
@@ -41,12 +47,15 @@ __Full Bagrut Certificate__
 __Technology__
 * C# Programming, self-taught.
 * Game development with Unity3D.
+
 __Languages__
 * Hebrew, Native language.
 * English, Fluently reading writing, and speaking.
+
 __Art__
 * Music production with Ableton Live.
 * Video editing with Premiere pro.
 
 Last updated: March 2022
+
 
