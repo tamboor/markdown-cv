@@ -21,7 +21,7 @@ __Israeli Air Force__
 - Commanded a 24/7 active war room in charge of relaying information in real-time from the field to the top of the chain of command.
 - Monitored inventory and use-state of aircraft and weaponry in the air force and linked relevant contacts to find solutions to different cases.
 
-<!-- add work experience -->
+<!-- add work experience  -->
 ## Education
 
 `October 2021 - Now`
