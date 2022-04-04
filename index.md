@@ -21,8 +21,14 @@ Looking for a job as a Junior Fullstack Developer/Unity Game Developer. -->
 `2021 - Now`
 ### John Bryce
 __Java Fullstack Development Course__
-* Studied and made an ongoing project with Java and the Spring framework implementing Spring Boot, Jpa & Hibernate with MySQL, Jwt token security, Rest API, and Swagger API. 
+* Studied Java and the Spring framework, made a project implementing Spring Boot, Jpa & Hibernate with MySQL, Jwt token security, Rest API, and Swagger API. 
 * Studying React using HTML, CSS And JavaScript/TypeScript + ES6.
+
+`2014 - 2018`
+### Ort Givatayim High School
+__Full Bagrut Certificate__
+* 5 units in physics.
+* 5 units in Math and English.
 
 ## My Skills
 __Technology__
@@ -53,12 +59,8 @@ __Givatayim Shelanu__
 
 <!-- add work experience  -->
 
-`2014 - 2018`
-### Ort Givatayim High School
-__Full Bagrut Certificate__
-* 5 units in physics.
-* 5 units in Math and English.
-
 Last updated: March 2022
+
+
 
 
